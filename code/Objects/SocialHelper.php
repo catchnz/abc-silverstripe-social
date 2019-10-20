@@ -5,7 +5,7 @@ use Facebook\Facebook;
 /**
  * @author AzT3k
  */
-class SocialHelper extends Object {
+class SocialHelper extends SS_Object {
 
     /**
      * generates a url to the current page

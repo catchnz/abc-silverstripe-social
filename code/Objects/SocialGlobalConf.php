@@ -3,7 +3,7 @@
 /**
  * @author AzT3k
  */
-class SocialGlobalConf extends Object {
+class SocialGlobalConf extends SS_Object {
 
     /**
      * @config
